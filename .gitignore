@@ -1,2 +1,12 @@
 # Google App Engine generated folder
 appengine-generated/
+
+# Build artifacts and executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Godot editor cache and import files
+.godot/
+*.import
